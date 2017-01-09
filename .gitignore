@@ -1,6 +1,7 @@
 .svn/
 generated/
 bin/
+build/
 
 *.class
 
